@@ -2,6 +2,8 @@
 ---
 #### The plain and simple starter.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ninetyfivenorth/gatsby-starter-clean-new.svg)](https://greenkeeper.io/)
+
 # Installation
 ---
 Install this starter (assuming Gatsby is installed) by running from your CLI: 
